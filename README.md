@@ -1,5 +1,5 @@
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
+<img alt="Night Coding" src="./assets/background.png"/>
 <h2 align="left">Hey there! I'm Sergio Bolaños</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
