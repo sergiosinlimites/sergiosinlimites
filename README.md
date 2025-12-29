@@ -87,8 +87,6 @@
 ### 🧰 Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,postman,notion,figma,androidstudio,firebase" />
-  &nbsp;&nbsp;
-  <img src="https://images.seeklogo.com/logo-png/61/1/cursor-logo-png_seeklogo-611587.png" height="46" alt="Cursor" />
 </p>
 
 ---
