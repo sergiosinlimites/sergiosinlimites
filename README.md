@@ -62,8 +62,6 @@
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Fusion360_Logo.svg" height="46" alt="Fusion 360" />
   &nbsp;
-  <img src="https://images.seeklogo.com/logo-png/61/1/autodesk-inventor-logo-png_seeklogo-617680.png" height="46" alt="Autodesk Inventor" />
-  &nbsp;
   <img src="https://www.mastercam.com/wp-content/uploads/2024/02/Mastercam-Black-Red_RGB-01.jpg" height="46" alt="Mastercam" />
 </p>
 
